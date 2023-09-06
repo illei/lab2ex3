@@ -6,6 +6,10 @@ namespace lab2ex3
     {
         static void Main(string[] args)
         {
+
+             /* Să se scrie un program care citeşte de la tastatură un şir de n numere
+naturale şi determină media aritmetică a celor pare, n fiind citit de la
+tastatra*/
             int counter = int.Parse(Console.ReadLine());
             int numar = 0;
             int suma = 0;
